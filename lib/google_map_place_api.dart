@@ -41,7 +41,7 @@ class _GooglePlacesMapApiState extends State<GooglePlacesMapApi> {
     String baseURL =
         'https://maps.googleapis.com/maps/api/place/autocomplete/json';
     // ignore: constant_identifier_names
-    String kPLACESAPIKEY = "AIzaSyBDBlccpWFIwgTKo3GlfkaWJIIWvH0e0B4";
+    String kPLACESAPIKEY = "your API key";
     String request =
         '$baseURL?input=$input&key=$kPLACESAPIKEY&sessiontoken=$_sessionToken';
 

@@ -1,4 +1,4 @@
-# appapiggl
+# Flutter Google Map API
 
 A new Flutter project.
 
